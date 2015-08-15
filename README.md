@@ -2,7 +2,7 @@
 Assessment of russian open data portal
 
 
-Steps to run program
+Steps to run program </br>
 1.	 Register on data.gov.ru and get your own API key
 2.	 Install mysql database
 3.	 Create database 
