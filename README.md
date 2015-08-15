@@ -19,4 +19,6 @@ Work.java</br>
 </br>
 interfacee.java</br>
 1.	lines 47-49: insert parametrs to connect your database </br>
-variable connection should look like "jdbc:mysql://localhost:3306/<database name>"
+variable connection should look like "jdbc:mysql://localhost:3306/<database name>" </br>
+</br>
+WARNING!! Running the program takes a while. Be patient, please.
